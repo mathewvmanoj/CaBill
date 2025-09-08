@@ -1,0 +1,16 @@
+{
+  "logging": {
+    "log_file": "logs/system.log",
+    "log_level": "INFO"
+  },
+  "groq_api_key": "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",
+  "mongodb": {
+    "host": "10.10.10.30",
+    "port": 27017,
+    "username": "",
+    "password": "",
+    "database": "fintrack-dev",
+    "authSource": "",
+    "connection_url": "mongodb://10.10.10.30:27017"
+  }
+}

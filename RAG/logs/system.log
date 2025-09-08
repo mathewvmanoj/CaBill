@@ -1,0 +1,1182 @@
+2025-03-14 12:36:23,126 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:36:23,126 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:36:26,983 - INFO - Processing as a MongoDB query request
+2025-03-14 12:36:26,983 - INFO - Processing as a MongoDB query request
+2025-03-14 12:37:56,178 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:37:56,178 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:37:57,654 - INFO - Processing as a MongoDB query request
+2025-03-14 12:37:57,654 - INFO - Processing as a MongoDB query request
+2025-03-14 12:37:57,656 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:37:57,656 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:42:31,652 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:42:31,652 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:42:36,347 - INFO - Processing as a MongoDB query request
+2025-03-14 12:42:36,347 - INFO - Processing as a MongoDB query request
+2025-03-14 12:42:36,350 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:42:36,350 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:44:18,905 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:44:18,905 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:44:22,890 - INFO - Processing as a MongoDB query request
+2025-03-14 12:44:22,890 - INFO - Processing as a MongoDB query request
+2025-03-14 12:44:22,893 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:44:22,893 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:45:20,895 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:45:20,895 - INFO - Starting FastAPI server on port 8000
+2025-03-14 12:46:26,225 - INFO - Processing as a MongoDB query request
+2025-03-14 12:46:26,225 - INFO - Processing as a MongoDB query request
+2025-03-14 12:46:26,230 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:46:26,230 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-14 12:46:31,902 - INFO - Processing as a natural language response
+2025-03-14 12:46:31,902 - INFO - Processing as a natural language response
+2025-03-17 09:01:36,391 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:01:36,391 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:49:39,964 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:49:39,964 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:49:39,964 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:51:07,559 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:51:07,559 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:51:07,559 - INFO - Starting FastAPI server on port 8000
+2025-03-17 09:51:18,918 - INFO - Processing as a MongoDB query request
+2025-03-17 09:51:18,918 - INFO - Processing as a MongoDB query request
+2025-03-17 09:51:18,918 - INFO - Processing as a MongoDB query request
+2025-03-17 09:51:18,963 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 09:51:18,963 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 09:51:18,963 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:03:02,285 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:03:02,285 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:03:02,285 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:03:43,175 - INFO - Processing as a MongoDB query request
+2025-03-17 10:03:43,175 - INFO - Processing as a MongoDB query request
+2025-03-17 10:03:43,175 - INFO - Processing as a MongoDB query request
+2025-03-17 10:03:43,182 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:03:43,182 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:03:43,182 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:03:43,729 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-17 10:03:43,729 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-17 10:03:43,729 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-17 10:11:46,618 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:11:46,618 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:11:46,618 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:13:22,030 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:13:22,030 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:13:22,030 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:13:27,469 - INFO - Processing as a MongoDB query request
+2025-03-17 10:13:27,469 - INFO - Processing as a MongoDB query request
+2025-03-17 10:13:27,469 - INFO - Processing as a MongoDB query request
+2025-03-17 10:13:27,475 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:13:27,475 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:13:27,475 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:13:28,240 - WARNING - Could not extract MongoDB query from response.
+2025-03-17 10:13:28,240 - WARNING - Could not extract MongoDB query from response.
+2025-03-17 10:13:28,240 - WARNING - Could not extract MongoDB query from response.
+2025-03-17 10:13:28,249 - ERROR - Error generating MongoDB query: 
+2025-03-17 10:13:28,249 - ERROR - Error generating MongoDB query: 
+2025-03-17 10:13:28,249 - ERROR - Error generating MongoDB query: 
+2025-03-17 10:14:13,152 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:14:13,152 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:14:13,152 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:14:18,023 - INFO - Processing as a MongoDB query request
+2025-03-17 10:14:18,023 - INFO - Processing as a MongoDB query request
+2025-03-17 10:14:18,023 - INFO - Processing as a MongoDB query request
+2025-03-17 10:14:18,076 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:14:18,076 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:14:18,076 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:42:51,080 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:42:51,080 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:42:51,080 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:42:57,403 - INFO - Processing as a MongoDB query request
+2025-03-17 10:42:57,403 - INFO - Processing as a MongoDB query request
+2025-03-17 10:42:57,403 - INFO - Processing as a MongoDB query request
+2025-03-17 10:42:57,414 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:42:57,414 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:42:57,414 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-17 10:47:22,443 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:47:22,443 - INFO - Starting FastAPI server on port 8000
+2025-03-17 10:47:22,443 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:05:51,287 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:05:51,287 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:05:51,287 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:06:10,516 - INFO - Processing as a MongoDB query request
+2025-03-18 20:06:10,516 - INFO - Processing as a MongoDB query request
+2025-03-18 20:06:10,516 - INFO - Processing as a MongoDB query request
+2025-03-18 20:06:10,521 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:06:10,521 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:06:10,521 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:12:02,363 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:12:02,363 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:12:02,363 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:12:11,196 - INFO - Processing as a MongoDB query request
+2025-03-18 20:12:11,196 - INFO - Processing as a MongoDB query request
+2025-03-18 20:12:11,196 - INFO - Processing as a MongoDB query request
+2025-03-18 20:12:11,207 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:12:11,207 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:12:11,207 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-18 20:56:08,269 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:56:08,269 - INFO - Starting FastAPI server on port 8000
+2025-03-18 20:56:08,269 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:24:09,349 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:24:09,349 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:24:09,349 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:24:30,088 - INFO - Processing as a MongoDB query request
+2025-03-19 12:24:30,088 - INFO - Processing as a MongoDB query request
+2025-03-19 12:24:30,088 - INFO - Processing as a MongoDB query request
+2025-03-19 12:24:30,096 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:24:30,096 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:24:30,096 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:24:30,855 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:24:30,855 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:24:30,855 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:30:34,871 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:30:34,871 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:30:34,871 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:31:57,300 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:31:57,300 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:31:57,300 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:32:26,512 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:32:26,512 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:32:26,512 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:33:58,088 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:33:58,088 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:33:58,088 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:34:11,996 - INFO - Processing as a MongoDB query request
+2025-03-19 12:34:11,996 - INFO - Processing as a MongoDB query request
+2025-03-19 12:34:11,996 - INFO - Processing as a MongoDB query request
+2025-03-19 12:34:12,000 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:34:12,000 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:34:12,000 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:34:52,256 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:34:52,256 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:34:52,256 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:35:46,209 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:35:46,209 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:35:46,209 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:36:11,943 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:36:11,943 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:36:11,943 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:36:15,161 - INFO - Processing as a MongoDB query request
+2025-03-19 12:36:15,161 - INFO - Processing as a MongoDB query request
+2025-03-19 12:36:15,161 - INFO - Processing as a MongoDB query request
+2025-03-19 12:36:15,166 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:36:15,166 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:36:15,166 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:36:15,578 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:36:15,578 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:36:15,578 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:27,320 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:27,320 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:27,320 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:32,799 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:32,799 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:32,799 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:32,803 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:32,803 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:32,803 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:33,454 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:33,454 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:33,454 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:56,559 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:56,559 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:56,559 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:37:58,705 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:58,705 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:58,705 - INFO - Processing as a MongoDB query request
+2025-03-19 12:37:58,714 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:58,714 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:58,714 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:37:59,457 - INFO - Going to execute db query: {query}
+2025-03-19 12:37:59,457 - INFO - Going to execute db query: {query}
+2025-03-19 12:37:59,457 - INFO - Going to execute db query: {query}
+2025-03-19 12:37:59,457 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:59,457 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:37:59,457 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:39:45,933 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:39:45,933 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:39:45,933 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:39:48,198 - INFO - Processing as a MongoDB query request
+2025-03-19 12:39:48,198 - INFO - Processing as a MongoDB query request
+2025-03-19 12:39:48,198 - INFO - Processing as a MongoDB query request
+2025-03-19 12:39:48,203 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:39:48,203 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:39:48,203 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:39:50,187 - ERROR - Error generating MongoDB query: name 'query' is not defined
+2025-03-19 12:39:50,187 - ERROR - Error generating MongoDB query: name 'query' is not defined
+2025-03-19 12:39:50,187 - ERROR - Error generating MongoDB query: name 'query' is not defined
+2025-03-19 12:40:14,259 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:40:14,259 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:40:14,259 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:40:17,489 - INFO - Processing as a MongoDB query request
+2025-03-19 12:40:17,489 - INFO - Processing as a MongoDB query request
+2025-03-19 12:40:17,489 - INFO - Processing as a MongoDB query request
+2025-03-19 12:40:17,495 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:40:17,495 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:40:17,495 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:40:18,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:40:18,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:40:18,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:40:18,328 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:40:18,328 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:40:18,328 - ERROR - Error generating MongoDB query: name 'self' is not defined
+2025-03-19 12:46:06,991 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:46:06,991 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:46:06,991 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:46:09,968 - INFO - Processing as a MongoDB query request
+2025-03-19 12:46:09,968 - INFO - Processing as a MongoDB query request
+2025-03-19 12:46:09,968 - INFO - Processing as a MongoDB query request
+2025-03-19 12:46:09,973 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:46:09,973 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:46:09,973 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:46:10,515 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:46:10,515 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:46:10,515 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:48:11,573 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:48:11,573 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:48:11,573 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:48:17,302 - INFO - Processing as a MongoDB query request
+2025-03-19 12:48:17,302 - INFO - Processing as a MongoDB query request
+2025-03-19 12:48:17,302 - INFO - Processing as a MongoDB query request
+2025-03-19 12:48:17,308 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:48:17,308 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:48:17,308 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:48:17,837 - INFO - Going to execute db query: db.users.find({ "email": "john.doe@example.com" })
+2025-03-19 12:48:17,837 - INFO - Going to execute db query: db.users.find({ "email": "john.doe@example.com" })
+2025-03-19 12:48:17,837 - INFO - Going to execute db query: db.users.find({ "email": "john.doe@example.com" })
+2025-03-19 12:49:34,040 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:49:34,040 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:49:34,040 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:49:37,485 - INFO - Processing as a MongoDB query request
+2025-03-19 12:49:37,485 - INFO - Processing as a MongoDB query request
+2025-03-19 12:49:37,485 - INFO - Processing as a MongoDB query request
+2025-03-19 12:49:37,491 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:49:37,491 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:49:37,491 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:49:39,392 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:49:39,392 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:49:39,392 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:51:27,765 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:51:27,765 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:51:27,765 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:51:27,765 - INFO - Starting FastAPI server on port 8000
+2025-03-19 12:51:33,397 - INFO - Processing as a MongoDB query request
+2025-03-19 12:51:33,397 - INFO - Processing as a MongoDB query request
+2025-03-19 12:51:33,397 - INFO - Processing as a MongoDB query request
+2025-03-19 12:51:33,397 - INFO - Processing as a MongoDB query request
+2025-03-19 12:51:33,406 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:51:33,406 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:51:33,406 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:51:33,406 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 12:51:34,111 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:51:34,111 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:51:34,111 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 12:51:34,111 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:18:35,190 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:18:35,190 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:18:35,190 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:18:35,190 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:18:38,717 - INFO - Processing as a MongoDB query request
+2025-03-19 13:18:38,717 - INFO - Processing as a MongoDB query request
+2025-03-19 13:18:38,717 - INFO - Processing as a MongoDB query request
+2025-03-19 13:18:38,717 - INFO - Processing as a MongoDB query request
+2025-03-19 13:18:38,724 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:18:38,724 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:18:38,724 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:18:38,724 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:18:39,333 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:18:39,333 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:18:39,333 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:18:39,333 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:26:17,132 - INFO - Processing as a MongoDB query request
+2025-03-19 13:26:17,132 - INFO - Processing as a MongoDB query request
+2025-03-19 13:26:17,132 - INFO - Processing as a MongoDB query request
+2025-03-19 13:26:17,132 - INFO - Processing as a MongoDB query request
+2025-03-19 13:26:17,250 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:26:17,250 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:26:17,250 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:26:17,250 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:26:17,741 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:26:17,741 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:26:17,741 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:26:17,741 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:37:18,835 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:37:18,835 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:37:18,835 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:37:18,835 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:37:18,841 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:37:18,841 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:37:18,841 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:37:18,841 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:37:18,841 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:37:18,841 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:37:18,841 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:37:18,841 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:37:18,942 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:37:18,942 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:37:18,942 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:37:18,942 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:37:38,413 - INFO - Processing as a MongoDB query request
+2025-03-19 13:37:38,413 - INFO - Processing as a MongoDB query request
+2025-03-19 13:37:38,413 - INFO - Processing as a MongoDB query request
+2025-03-19 13:37:38,413 - INFO - Processing as a MongoDB query request
+2025-03-19 13:37:38,418 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:37:38,418 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:37:38,418 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:37:38,418 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:37:38,872 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:37:38,872 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:37:38,872 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:37:38,872 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:37:38,891 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:37:38,891 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:37:38,891 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:37:38,891 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:38:28,061 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:38:28,061 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:38:28,061 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:38:28,061 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:38:28,077 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:38:28,077 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:38:28,077 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:38:28,077 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:38:28,077 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:38:28,077 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:38:28,077 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:38:28,077 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:38:28,245 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:38:28,245 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:38:28,245 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:38:28,245 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:38:28,462 - INFO - Processing as a MongoDB query request
+2025-03-19 13:38:28,462 - INFO - Processing as a MongoDB query request
+2025-03-19 13:38:28,462 - INFO - Processing as a MongoDB query request
+2025-03-19 13:38:28,462 - INFO - Processing as a MongoDB query request
+2025-03-19 13:38:28,503 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:38:28,503 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:38:28,503 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:38:28,503 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:38:28,970 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:38:28,970 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:38:28,970 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:38:28,970 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:40:12,654 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:40:12,654 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:40:12,654 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:40:12,654 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:40:18,784 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:40:18,784 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:40:18,784 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:40:18,784 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:40:18,807 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:40:18,807 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:40:18,807 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:40:18,807 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:40:18,923 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:40:18,923 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:40:18,923 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:40:18,923 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:21,295 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:21,295 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:21,295 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:21,295 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:21,310 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:21,310 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:21,310 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:21,310 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:21,317 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:21,317 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:21,317 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:21,317 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:21,379 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:21,379 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:21,379 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:21,379 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:26,705 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:26,705 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:26,705 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:26,705 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:26,715 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:26,715 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:26,715 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:26,715 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:27,327 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:42:27,327 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:42:27,327 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:42:27,327 - WARNING - Could not extract MongoDB query from response.
+2025-03-19 13:42:27,498 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:42:27,498 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:42:27,498 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:42:27,498 - ERROR - Error generating MongoDB query: 
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:45,894 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:42:45,910 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:45,910 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:45,910 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:45,910 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:42:45,972 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:45,972 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:45,972 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:45,972 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:42:49,122 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:49,122 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:49,122 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:49,122 - INFO - Processing as a MongoDB query request
+2025-03-19 13:42:49,131 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:49,131 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:49,131 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:49,131 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:42:49,564 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:42:49,564 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:42:49,564 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:42:49,564 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:42:49,579 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:42:49,579 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:42:49,579 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:42:49,579 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:42:49,582 - ERROR - Error generating MongoDB query: 'NoneType' object has no attribute 'list_collection_names'
+2025-03-19 13:42:49,582 - ERROR - Error generating MongoDB query: 'NoneType' object has no attribute 'list_collection_names'
+2025-03-19 13:42:49,582 - ERROR - Error generating MongoDB query: 'NoneType' object has no attribute 'list_collection_names'
+2025-03-19 13:42:49,582 - ERROR - Error generating MongoDB query: 'NoneType' object has no attribute 'list_collection_names'
+2025-03-19 13:44:28,666 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:44:28,666 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:44:28,666 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:44:28,666 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:44:28,682 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:44:28,682 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:44:28,682 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:44:28,682 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:44:28,682 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:44:28,682 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:44:28,682 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:44:28,682 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:44:28,750 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:44:28,750 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:44:28,750 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:44:28,750 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:44:32,040 - INFO - Processing as a MongoDB query request
+2025-03-19 13:44:32,040 - INFO - Processing as a MongoDB query request
+2025-03-19 13:44:32,040 - INFO - Processing as a MongoDB query request
+2025-03-19 13:44:32,040 - INFO - Processing as a MongoDB query request
+2025-03-19 13:44:32,049 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:44:32,049 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:44:32,049 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:44:32,049 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:44:32,511 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:44:32,511 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:44:32,511 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:44:32,511 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:44:32,511 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:44:32,529 - INFO - Trying to establish database connection
+2025-03-19 13:44:32,529 - INFO - Trying to establish database connection
+2025-03-19 13:44:32,529 - INFO - Trying to establish database connection
+2025-03-19 13:44:32,529 - INFO - Trying to establish database connection
+2025-03-19 13:44:32,592 - INFO - Database connection success
+2025-03-19 13:44:32,592 - INFO - Database connection success
+2025-03-19 13:44:32,592 - INFO - Database connection success
+2025-03-19 13:44:32,592 - INFO - Database connection success
+2025-03-19 13:44:32,609 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:44:32,609 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:44:32,609 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:44:32,609 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:44:32,628 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:44:32,628 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:44:32,628 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:44:32,628 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:46:20,164 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:46:20,180 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:46:20,180 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:46:20,180 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:46:20,180 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:46:20,280 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:46:20,280 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:46:20,280 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:46:20,280 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:46:57,561 - INFO - Processing as a MongoDB query request
+2025-03-19 13:46:57,561 - INFO - Processing as a MongoDB query request
+2025-03-19 13:46:57,561 - INFO - Processing as a MongoDB query request
+2025-03-19 13:46:57,561 - INFO - Processing as a MongoDB query request
+2025-03-19 13:46:57,571 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:46:57,571 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:46:57,571 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:46:57,571 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:46:58,124 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:46:58,124 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:46:58,124 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:46:58,124 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.execute_query
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.execute_query
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.execute_query
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.execute_query
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:46:58,128 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:46:58,143 - INFO - Trying to establish database connection
+2025-03-19 13:46:58,143 - INFO - Trying to establish database connection
+2025-03-19 13:46:58,143 - INFO - Trying to establish database connection
+2025-03-19 13:46:58,143 - INFO - Trying to establish database connection
+2025-03-19 13:46:58,159 - INFO - Database connection success
+2025-03-19 13:46:58,159 - INFO - Database connection success
+2025-03-19 13:46:58,159 - INFO - Database connection success
+2025-03-19 13:46:58,159 - INFO - Database connection success
+2025-03-19 13:46:58,179 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:46:58,179 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:46:58,179 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:46:58,179 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:46:58,342 - INFO - Starting function MongoDBClient.close
+2025-03-19 13:46:58,342 - INFO - Starting function MongoDBClient.close
+2025-03-19 13:46:58,342 - INFO - Starting function MongoDBClient.close
+2025-03-19 13:46:58,342 - INFO - Starting function MongoDBClient.close
+2025-03-19 13:46:58,408 - INFO - Exiting function MongoDBClient.close
+2025-03-19 13:46:58,408 - INFO - Exiting function MongoDBClient.close
+2025-03-19 13:46:58,408 - INFO - Exiting function MongoDBClient.close
+2025-03-19 13:46:58,408 - INFO - Exiting function MongoDBClient.close
+2025-03-19 13:46:58,411 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-19 13:46:58,411 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-19 13:46:58,411 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-19 13:46:58,411 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:47:20,237 - INFO - Starting function MongoDBClient._load_config
+2025-03-19 13:47:20,237 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:47:20,237 - INFO - Exiting function MongoDBClient.__init__
+2025-03-19 13:47:20,430 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:47:20,430 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:47:20,430 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:47:20,430 - INFO - Starting FastAPI server on port 8000
+2025-03-19 13:47:20,687 - INFO - Processing as a MongoDB query request
+2025-03-19 13:47:20,687 - INFO - Processing as a MongoDB query request
+2025-03-19 13:47:20,687 - INFO - Processing as a MongoDB query request
+2025-03-19 13:47:20,687 - INFO - Processing as a MongoDB query request
+2025-03-19 13:47:20,687 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:47:20,687 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:47:20,687 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:47:20,687 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-19 13:47:21,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:47:21,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:47:21,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:47:21,164 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-19 13:47:21,164 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:47:21,164 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:47:21,164 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:47:21,164 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-19 13:47:21,180 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:47:21,180 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:47:21,180 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:47:21,180 - INFO - Starting function MongoDBClient.connect
+2025-03-19 13:47:21,180 - INFO - Trying to establish database connection
+2025-03-19 13:47:21,180 - INFO - Trying to establish database connection
+2025-03-19 13:47:21,180 - INFO - Trying to establish database connection
+2025-03-19 13:47:21,180 - INFO - Trying to establish database connection
+2025-03-19 13:47:21,211 - INFO - Database connection success
+2025-03-19 13:47:21,211 - INFO - Database connection success
+2025-03-19 13:47:21,211 - INFO - Database connection success
+2025-03-19 13:47:21,211 - INFO - Database connection success
+2025-03-19 13:47:21,218 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:47:21,218 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:47:21,218 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:47:21,218 - INFO - Exiting function MongoDBClient.connect
+2025-03-19 13:47:21,233 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:47:21,233 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:47:21,233 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-19 13:47:21,233 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 10:28:50,920 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:28:50,920 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:28:50,920 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:28:50,920 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:28:50,936 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:28:50,936 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:28:50,936 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:28:50,936 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:28:50,936 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:28:50,936 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:28:50,936 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:28:50,936 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:28:51,052 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:28:51,052 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:28:51,052 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:28:51,052 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:29:01,563 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:01,563 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:01,563 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:01,563 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:01,576 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:01,576 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:01,576 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:01,576 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:02,242 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:02,242 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:02,242 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:02,242 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:02,260 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 10:29:02,260 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 10:29:02,260 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 10:29:02,260 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 10:29:02,273 - INFO - Starting function MongoDBClient.connect
+2025-03-20 10:29:02,273 - INFO - Starting function MongoDBClient.connect
+2025-03-20 10:29:02,273 - INFO - Starting function MongoDBClient.connect
+2025-03-20 10:29:02,273 - INFO - Starting function MongoDBClient.connect
+2025-03-20 10:29:02,283 - INFO - Trying to establish database connection
+2025-03-20 10:29:02,283 - INFO - Trying to establish database connection
+2025-03-20 10:29:02,283 - INFO - Trying to establish database connection
+2025-03-20 10:29:02,283 - INFO - Trying to establish database connection
+2025-03-20 10:29:02,351 - INFO - Database connection success
+2025-03-20 10:29:02,351 - INFO - Database connection success
+2025-03-20 10:29:02,351 - INFO - Database connection success
+2025-03-20 10:29:02,351 - INFO - Database connection success
+2025-03-20 10:29:02,362 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 10:29:02,362 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 10:29:02,362 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 10:29:02,362 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 10:29:02,385 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 10:29:02,385 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 10:29:02,385 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 10:29:02,385 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 10:29:30,071 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:29:30,071 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:29:30,071 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:29:30,071 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 10:29:30,089 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:29:30,089 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:29:30,089 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:29:30,089 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 10:29:30,099 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:29:30,099 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:29:30,099 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:29:30,099 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 10:29:30,183 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:29:30,183 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:29:30,183 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:29:30,183 - INFO - Starting FastAPI server on port 8000
+2025-03-20 10:29:34,873 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:34,873 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:34,873 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:34,873 - INFO - Processing as a MongoDB query request
+2025-03-20 10:29:34,883 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:34,883 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:34,883 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:34,883 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 10:29:35,437 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:35,437 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:35,437 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 10:29:35,437 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:08:01,753 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:08:01,753 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:08:01,753 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:08:01,753 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:08:01,769 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:08:01,769 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:08:01,769 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:08:01,769 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:08:01,775 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:08:01,775 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:08:01,775 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:08:01,775 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:08:01,876 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:08:01,876 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:08:01,876 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:08:01,876 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:08:07,508 - INFO - Processing as a MongoDB query request
+2025-03-20 11:08:07,508 - INFO - Processing as a MongoDB query request
+2025-03-20 11:08:07,508 - INFO - Processing as a MongoDB query request
+2025-03-20 11:08:07,508 - INFO - Processing as a MongoDB query request
+2025-03-20 11:08:07,568 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:08:07,568 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:08:07,568 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:08:07,568 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:08:08,086 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:08:08,086 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:08:08,086 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:08:08,086 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:08:08,103 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 11:08:08,103 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 11:08:08,103 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 11:08:08,103 - INFO - Starting function MongoDBClient.execute_querty
+2025-03-20 11:08:08,112 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:08:08,112 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:08:08,112 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:08:08,112 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:08:08,121 - INFO - Trying to establish database connection
+2025-03-20 11:08:08,121 - INFO - Trying to establish database connection
+2025-03-20 11:08:08,121 - INFO - Trying to establish database connection
+2025-03-20 11:08:08,121 - INFO - Trying to establish database connection
+2025-03-20 11:08:08,149 - INFO - Database connection success
+2025-03-20 11:08:08,149 - INFO - Database connection success
+2025-03-20 11:08:08,149 - INFO - Database connection success
+2025-03-20 11:08:08,149 - INFO - Database connection success
+2025-03-20 11:08:08,167 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:08:08,167 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:08:08,167 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:08:08,167 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:08:08,183 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 11:08:08,183 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 11:08:08,183 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 11:08:08,183 - ERROR - Error generating MongoDB query: 'async for' requires an object with __aiter__ method, got _asyncio.Future
+2025-03-20 11:09:36,035 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:09:36,035 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:09:36,035 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:09:36,035 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:09:36,043 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:09:36,043 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:09:36,043 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:09:36,043 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:09:36,053 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:09:36,053 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:09:36,053 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:09:36,053 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:09:36,132 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:09:36,132 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:09:36,132 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:09:36,132 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:09:41,634 - INFO - Processing as a MongoDB query request
+2025-03-20 11:09:41,634 - INFO - Processing as a MongoDB query request
+2025-03-20 11:09:41,634 - INFO - Processing as a MongoDB query request
+2025-03-20 11:09:41,634 - INFO - Processing as a MongoDB query request
+2025-03-20 11:09:41,668 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:09:41,668 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:09:41,668 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:09:41,668 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-03-20 11:09:42,200 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:09:42,200 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:09:42,200 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:09:42,200 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-03-20 11:09:42,216 - INFO - Starting function MongoDBClient.execute_query
+2025-03-20 11:09:42,216 - INFO - Starting function MongoDBClient.execute_query
+2025-03-20 11:09:42,216 - INFO - Starting function MongoDBClient.execute_query
+2025-03-20 11:09:42,216 - INFO - Starting function MongoDBClient.execute_query
+2025-03-20 11:09:42,231 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:09:42,231 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:09:42,231 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:09:42,231 - INFO - Starting function MongoDBClient.connect
+2025-03-20 11:09:42,247 - INFO - Trying to establish database connection
+2025-03-20 11:09:42,247 - INFO - Trying to establish database connection
+2025-03-20 11:09:42,247 - INFO - Trying to establish database connection
+2025-03-20 11:09:42,247 - INFO - Trying to establish database connection
+2025-03-20 11:09:42,269 - INFO - Database connection success
+2025-03-20 11:09:42,269 - INFO - Database connection success
+2025-03-20 11:09:42,269 - INFO - Database connection success
+2025-03-20 11:09:42,269 - INFO - Database connection success
+2025-03-20 11:09:42,285 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:09:42,285 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:09:42,285 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:09:42,285 - INFO - Exiting function MongoDBClient.connect
+2025-03-20 11:09:42,469 - INFO - Starting function MongoDBClient.close
+2025-03-20 11:09:42,469 - INFO - Starting function MongoDBClient.close
+2025-03-20 11:09:42,469 - INFO - Starting function MongoDBClient.close
+2025-03-20 11:09:42,469 - INFO - Starting function MongoDBClient.close
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.close
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.close
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.close
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.close
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-20 11:09:42,532 - INFO - Exiting function MongoDBClient.execute_query
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient.__init__
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:10:01,675 - INFO - Starting function MongoDBClient._load_config
+2025-03-20 11:10:01,691 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:10:01,691 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:10:01,691 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:10:01,691 - INFO - Exiting function MongoDBClient.__init__
+2025-03-20 11:10:01,776 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:10:01,776 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:10:01,776 - INFO - Starting FastAPI server on port 8000
+2025-03-20 11:10:01,776 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:05:25,450 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:05:25,450 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:05:25,450 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:05:25,450 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:05:25,455 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:05:25,455 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:05:25,455 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:05:25,455 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:05:25,465 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:05:25,465 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:05:25,465 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:05:25,465 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:05:25,541 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:05:25,541 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:05:25,541 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:05:25,541 - INFO - Starting FastAPI server on port 8000
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 12:13:08,402 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 12:13:08,402 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 12:13:08,402 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 12:13:08,486 - INFO - Starting FastAPI server on port 8000
+2025-03-27 12:13:08,486 - INFO - Starting FastAPI server on port 8000
+2025-03-27 12:13:08,486 - INFO - Starting FastAPI server on port 8000
+2025-03-27 12:13:08,486 - INFO - Starting FastAPI server on port 8000
+2025-03-27 12:13:38,715 - INFO - Processing as a natural language response
+2025-03-27 12:13:38,715 - INFO - Processing as a natural language response
+2025-03-27 12:13:38,715 - INFO - Processing as a natural language response
+2025-03-27 12:13:38,715 - INFO - Processing as a natural language response
+2025-03-27 16:22:44,406 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:22:44,406 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:22:44,406 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:22:44,406 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:22:44,410 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:22:44,410 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:22:44,410 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:22:44,410 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:22:44,420 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:22:44,420 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:22:44,420 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:22:44,420 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:22:44,473 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:22:44,473 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:22:44,473 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:22:44,473 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:27:25,218 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:27:25,218 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:27:25,218 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:27:25,218 - INFO - Starting function MongoDBClient.__init__
+2025-03-27 16:27:25,220 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:27:25,220 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:27:25,220 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:27:25,220 - INFO - Starting function MongoDBClient._load_config
+2025-03-27 16:27:25,231 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:27:25,231 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:27:25,231 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:27:25,231 - INFO - Exiting function MongoDBClient.__init__
+2025-03-27 16:27:25,278 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:27:25,278 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:27:25,278 - INFO - Starting FastAPI server on port 8000
+2025-03-27 16:27:25,278 - INFO - Starting FastAPI server on port 8000
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient._load_config
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient._load_config
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient._load_config
+2025-04-01 08:57:17,358 - INFO - Starting function MongoDBClient._load_config
+2025-04-01 08:57:17,358 - INFO - Exiting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Exiting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Exiting function MongoDBClient.__init__
+2025-04-01 08:57:17,358 - INFO - Exiting function MongoDBClient.__init__
+2025-04-01 08:57:17,468 - INFO - Starting FastAPI server on port 8000
+2025-04-01 08:57:17,468 - INFO - Starting FastAPI server on port 8000
+2025-04-01 08:57:17,468 - INFO - Starting FastAPI server on port 8000
+2025-04-01 08:57:17,468 - INFO - Starting FastAPI server on port 8000
+2025-04-01 08:58:03,019 - INFO - Processing as a natural language response
+2025-04-01 08:58:03,019 - INFO - Processing as a natural language response
+2025-04-01 08:58:03,019 - INFO - Processing as a natural language response
+2025-04-01 08:58:03,019 - INFO - Processing as a natural language response
+2025-04-01 08:58:38,786 - INFO - Processing as a natural language response
+2025-04-01 08:58:38,786 - INFO - Processing as a natural language response
+2025-04-01 08:58:38,786 - INFO - Processing as a natural language response
+2025-04-01 08:58:38,786 - INFO - Processing as a natural language response
+2025-04-01 09:24:28,327 - INFO - Processing as a MongoDB query request
+2025-04-01 09:24:28,327 - INFO - Processing as a MongoDB query request
+2025-04-01 09:24:28,327 - INFO - Processing as a MongoDB query request
+2025-04-01 09:24:28,327 - INFO - Processing as a MongoDB query request
+2025-04-01 09:24:28,327 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-01 09:24:28,327 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-01 09:24:28,327 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-01 09:24:28,327 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-01 09:24:29,042 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-01 09:24:29,042 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-01 09:24:29,042 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-01 09:24:29,042 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-01 09:24:29,042 - INFO - Starting function MongoDBClient.execute_query
+2025-04-01 09:24:29,042 - INFO - Starting function MongoDBClient.execute_query
+2025-04-01 09:24:29,042 - INFO - Starting function MongoDBClient.execute_query
+2025-04-01 09:24:29,042 - INFO - Starting function MongoDBClient.execute_query
+2025-04-01 09:24:29,056 - INFO - Starting function MongoDBClient.connect
+2025-04-01 09:24:29,056 - INFO - Starting function MongoDBClient.connect
+2025-04-01 09:24:29,056 - INFO - Starting function MongoDBClient.connect
+2025-04-01 09:24:29,056 - INFO - Starting function MongoDBClient.connect
+2025-04-01 09:24:29,056 - INFO - Trying to establish database connection
+2025-04-01 09:24:29,056 - INFO - Trying to establish database connection
+2025-04-01 09:24:29,056 - INFO - Trying to establish database connection
+2025-04-01 09:24:29,056 - INFO - Trying to establish database connection
+2025-04-01 09:24:29,823 - INFO - Database connection success
+2025-04-01 09:24:29,823 - INFO - Database connection success
+2025-04-01 09:24:29,823 - INFO - Database connection success
+2025-04-01 09:24:29,823 - INFO - Database connection success
+2025-04-01 09:24:29,823 - INFO - Exiting function MongoDBClient.connect
+2025-04-01 09:24:29,823 - INFO - Exiting function MongoDBClient.connect
+2025-04-01 09:24:29,823 - INFO - Exiting function MongoDBClient.connect
+2025-04-01 09:24:29,823 - INFO - Exiting function MongoDBClient.connect
+2025-04-01 09:24:30,026 - INFO - Starting function MongoDBClient.close
+2025-04-01 09:24:30,026 - INFO - Starting function MongoDBClient.close
+2025-04-01 09:24:30,026 - INFO - Starting function MongoDBClient.close
+2025-04-01 09:24:30,026 - INFO - Starting function MongoDBClient.close
+2025-04-01 09:24:30,093 - INFO - Exiting function MongoDBClient.close
+2025-04-01 09:24:30,093 - INFO - Exiting function MongoDBClient.close
+2025-04-01 09:24:30,093 - INFO - Exiting function MongoDBClient.close
+2025-04-01 09:24:30,093 - INFO - Exiting function MongoDBClient.close
+2025-04-01 09:24:30,111 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-01 09:24:30,111 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-01 09:24:30,111 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-01 09:24:30,111 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-03 09:57:14,100 - INFO - Processing as a MongoDB query request
+2025-04-03 09:57:14,100 - INFO - Processing as a MongoDB query request
+2025-04-03 09:57:14,100 - INFO - Processing as a MongoDB query request
+2025-04-03 09:57:14,100 - INFO - Processing as a MongoDB query request
+2025-04-03 09:57:14,100 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-03 09:57:14,100 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-03 09:57:14,100 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-03 09:57:14,100 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-03 09:57:15,707 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-03 09:57:15,707 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-03 09:57:15,707 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-03 09:57:15,707 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.execute_query
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.execute_query
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.execute_query
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.execute_query
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.connect
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.connect
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.connect
+2025-04-03 09:57:15,723 - INFO - Starting function MongoDBClient.connect
+2025-04-03 09:57:15,723 - INFO - Trying to establish database connection
+2025-04-03 09:57:15,723 - INFO - Trying to establish database connection
+2025-04-03 09:57:15,723 - INFO - Trying to establish database connection
+2025-04-03 09:57:15,723 - INFO - Trying to establish database connection
+2025-04-03 09:57:15,769 - INFO - Database connection success
+2025-04-03 09:57:15,769 - INFO - Database connection success
+2025-04-03 09:57:15,769 - INFO - Database connection success
+2025-04-03 09:57:15,769 - INFO - Database connection success
+2025-04-03 09:57:15,772 - INFO - Exiting function MongoDBClient.connect
+2025-04-03 09:57:15,772 - INFO - Exiting function MongoDBClient.connect
+2025-04-03 09:57:15,772 - INFO - Exiting function MongoDBClient.connect
+2025-04-03 09:57:15,772 - INFO - Exiting function MongoDBClient.connect
+2025-04-03 09:57:15,993 - INFO - Starting function MongoDBClient.close
+2025-04-03 09:57:15,993 - INFO - Starting function MongoDBClient.close
+2025-04-03 09:57:15,993 - INFO - Starting function MongoDBClient.close
+2025-04-03 09:57:15,993 - INFO - Starting function MongoDBClient.close
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.close
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.close
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.close
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.close
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-03 09:57:16,038 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:42:42,245 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:42:42,245 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:42:42,245 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:42:42,245 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:42:42,281 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:42:42,281 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:42:42,281 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:42:42,281 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:42:42,298 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:42:42,298 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:42:42,298 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:42:42,298 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:42:42,430 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:42:42,430 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:42:42,430 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:42:42,430 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:44:09,300 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:44:09,300 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:44:09,300 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:44:09,300 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:44:09,303 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:44:09,303 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:44:09,303 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:44:09,303 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:44:09,306 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:44:09,306 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:44:09,306 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:44:09,306 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:44:09,385 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:44:09,385 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:44:09,385 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:44:09,385 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:44:55,944 - INFO - Processing as a MongoDB query request
+2025-04-04 10:44:55,944 - INFO - Processing as a MongoDB query request
+2025-04-04 10:44:55,944 - INFO - Processing as a MongoDB query request
+2025-04-04 10:44:55,944 - INFO - Processing as a MongoDB query request
+2025-04-04 10:44:55,950 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:44:55,950 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:44:55,950 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:44:55,950 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:44:56,420 - INFO - Going to execute db query: db.users.find({"email": "john.doe@example.com"})
+2025-04-04 10:44:56,420 - INFO - Going to execute db query: db.users.find({"email": "john.doe@example.com"})
+2025-04-04 10:44:56,420 - INFO - Going to execute db query: db.users.find({"email": "john.doe@example.com"})
+2025-04-04 10:44:56,420 - INFO - Going to execute db query: db.users.find({"email": "john.doe@example.com"})
+2025-04-04 10:44:56,420 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:44:56,420 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:44:56,420 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:44:56,420 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:44:56,436 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:44:56,436 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:44:56,436 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:44:56,436 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:44:56,436 - INFO - Trying to establish database connection
+2025-04-04 10:44:56,436 - INFO - Trying to establish database connection
+2025-04-04 10:44:56,436 - INFO - Trying to establish database connection
+2025-04-04 10:44:56,436 - INFO - Trying to establish database connection
+2025-04-04 10:44:57,269 - INFO - Database connection success
+2025-04-04 10:44:57,269 - INFO - Database connection success
+2025-04-04 10:44:57,269 - INFO - Database connection success
+2025-04-04 10:44:57,269 - INFO - Database connection success
+2025-04-04 10:44:57,288 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:44:57,288 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:44:57,288 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:44:57,288 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:44:57,386 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:44:57,386 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:44:57,386 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:44:57,386 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:44:57,396 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:44:57,396 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:44:57,396 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:44:57,396 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:44:57,407 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:44:57,407 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:44:57,407 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:44:57,407 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:45:57,304 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:45:57,304 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:45:57,304 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:45:57,304 - INFO - Starting function MongoDBClient.__init__
+2025-04-04 10:45:57,306 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:45:57,306 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:45:57,306 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:45:57,306 - INFO - Starting function MongoDBClient._load_config
+2025-04-04 10:45:57,307 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:45:57,307 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:45:57,307 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:45:57,307 - INFO - Exiting function MongoDBClient.__init__
+2025-04-04 10:45:57,350 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:45:57,350 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:45:57,350 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:45:57,350 - INFO - Starting FastAPI server on port 5001
+2025-04-04 10:46:02,034 - INFO - Processing as a MongoDB query request
+2025-04-04 10:46:02,034 - INFO - Processing as a MongoDB query request
+2025-04-04 10:46:02,034 - INFO - Processing as a MongoDB query request
+2025-04-04 10:46:02,034 - INFO - Processing as a MongoDB query request
+2025-04-04 10:46:02,036 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:46:02,036 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:46:02,036 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:46:02,036 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:46:02,634 - INFO - Going to execute db query: db.users.find( { email: "john.doe@example.com" } )
+2025-04-04 10:46:02,634 - INFO - Going to execute db query: db.users.find( { email: "john.doe@example.com" } )
+2025-04-04 10:46:02,634 - INFO - Going to execute db query: db.users.find( { email: "john.doe@example.com" } )
+2025-04-04 10:46:02,634 - INFO - Going to execute db query: db.users.find( { email: "john.doe@example.com" } )
+2025-04-04 10:46:02,645 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:46:02,645 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:46:02,645 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:46:02,645 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:46:02,648 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:46:02,648 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:46:02,648 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:46:02,648 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:46:02,655 - INFO - Trying to establish database connection
+2025-04-04 10:46:02,655 - INFO - Trying to establish database connection
+2025-04-04 10:46:02,655 - INFO - Trying to establish database connection
+2025-04-04 10:46:02,655 - INFO - Trying to establish database connection
+2025-04-04 10:46:02,675 - INFO - Database connection success
+2025-04-04 10:46:02,675 - INFO - Database connection success
+2025-04-04 10:46:02,675 - INFO - Database connection success
+2025-04-04 10:46:02,675 - INFO - Database connection success
+2025-04-04 10:46:02,680 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:46:02,680 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:46:02,680 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:46:02,680 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:46:02,834 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:46:02,834 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:46:02,834 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:46:02,834 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:46:02,864 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:46:02,864 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:46:02,864 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:46:02,864 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:46:02,866 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:46:02,866 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:46:02,866 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:46:02,866 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:50:23,369 - INFO - Processing as a natural language response
+2025-04-04 10:50:23,369 - INFO - Processing as a natural language response
+2025-04-04 10:50:23,369 - INFO - Processing as a natural language response
+2025-04-04 10:50:23,369 - INFO - Processing as a natural language response
+2025-04-04 10:50:48,571 - INFO - Processing as a natural language response
+2025-04-04 10:50:48,571 - INFO - Processing as a natural language response
+2025-04-04 10:50:48,571 - INFO - Processing as a natural language response
+2025-04-04 10:50:48,571 - INFO - Processing as a natural language response
+2025-04-04 10:51:08,025 - INFO - Processing as a MongoDB query request
+2025-04-04 10:51:08,025 - INFO - Processing as a MongoDB query request
+2025-04-04 10:51:08,025 - INFO - Processing as a MongoDB query request
+2025-04-04 10:51:08,025 - INFO - Processing as a MongoDB query request
+2025-04-04 10:51:08,026 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:51:08,026 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:51:08,026 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:51:08,026 - INFO - Processing generate_mongo_query_with_schema with question: Retrieve details of a user with email 'john.doe@example.com'?
+2025-04-04 10:51:08,440 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-04 10:51:08,440 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-04 10:51:08,440 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-04 10:51:08,440 - INFO - Going to execute db query: db.users.find({ email: "john.doe@example.com" })
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.execute_query
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:51:08,440 - INFO - Starting function MongoDBClient.connect
+2025-04-04 10:51:08,440 - INFO - Trying to establish database connection
+2025-04-04 10:51:08,440 - INFO - Trying to establish database connection
+2025-04-04 10:51:08,440 - INFO - Trying to establish database connection
+2025-04-04 10:51:08,440 - INFO - Trying to establish database connection
+2025-04-04 10:51:08,453 - INFO - Database connection success
+2025-04-04 10:51:08,453 - INFO - Database connection success
+2025-04-04 10:51:08,453 - INFO - Database connection success
+2025-04-04 10:51:08,453 - INFO - Database connection success
+2025-04-04 10:51:08,455 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:51:08,455 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:51:08,455 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:51:08,455 - INFO - Exiting function MongoDBClient.connect
+2025-04-04 10:51:08,604 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:51:08,604 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:51:08,604 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:51:08,604 - INFO - Starting function MongoDBClient.close
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.close
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}
+2025-04-04 10:51:08,638 - INFO - Exiting function MongoDBClient.execute_query: {'results': []}

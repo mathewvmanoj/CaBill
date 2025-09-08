@@ -1,0 +1,13 @@
+services:
+  fintrack-rag:
+    build:
+      context: . # Specifies the directory containing the Dockerfile
+      dockerfile: Dockerfile # Specifies the Dockerfile name (optional if named "Dockerfile")
+    container_name: fintrack-rag-container # Assign a custom name to the container
+    ports:
+      - '5001:5001' # Map port 5000 on the host to port 5000 in the container
+    restart: always # Ensures the container restarts automatically after a crash or reboot
+    volumes:
+      - .:/app # Mount the current directory into the container at /app (optional, for development)
+    environment:
+      - PYTHONUNBUFFERED=1 # Ensures Python logs are output immediately (useful for debugging)
