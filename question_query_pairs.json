@@ -1,0 +1,1 @@
+[{"question": "Find all users older than 30.", "query": "db.users.find({ age: { $gt: 30 } })"}, {"question": "Get the names of users with the email domain 'example.com'.", "query": "db.users.find({ email: { $regex: 'example.com$' } }, { name: 1, _id: 0 })"}, {"question": "Count the number of users.", "query": "db.users.countDocuments()"}]

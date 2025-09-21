@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REPORT PROFILES</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='finance_styles.css') }}">
+    <script src="../static/script.js" defer></script>
+</head>
+<body>
+
+<div class="container">
+    <img src="{{ url_for('static', filename='p2.png') }}" alt="Company Logo" class="logo">
+    <h1>Finance Report Profiles </h1>
+
+    <!-- Date Filter Form -->
+    <form id="date-filter-form" action="{{ url_for('finance') }}" method="GET">
+        <label for="from_date">From:</label>
+        <input type="date" id="from_date" name="from_date" required>
+        
+        <label for="to_date">To:</label>
+        <input type="date" id="to_date" name="to_date" required>
+        
+        <button type="submit" class="filter-btn">Filter</button>
+        <a href="{{ url_for('finance') }}" class="clear-btn">Clear Filter</a>
+    </form>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Faculty Name</th>
+                <th>Hours Worked</th>
+                <th>Status</th>
+                <th>Evaluation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for transaction in transactions %} 
+            <tr>
+                <td class="faculty-name">
+                    <a href="{{ url_for('faculty_details', faculty_name=transaction['Faculty Name']) }}">
+                        {{ transaction['Faculty Name'] }}
+                    </a>
+                </td>
+                <td><span class="sites-badge">{{ transaction['Hours Worked'] }}</span></td>
+                <td class="discrepancy-cell">{{ transaction['Status'] }}</td>
+                <td>
+                    <input type="checkbox" class="toggle-switch" {% if transaction['Status'] == '✓' %}checked{% endif %}>
+                </td>
+            </tr>
+            {% endfor %} 
+        </tbody>
+    </table>
+
+
+    <div class="button-container">
+        <a id="download-report-btn" href="{{ url_for('download_finance_report', from_date=request.args.get('from_date'), to_date=request.args.get('to_date')) }}" class="download-btn" data-download-url="{{ url_for('download_finance_report') }}">
+            Download Report
+        </a>
+        <a href="{{ url_for('logout') }}" class="logout-button">Logout</a>
+    </div>
+
+</div>
+</div>
+<!-- Chatbot Button -->
+<div id="chatbot-button" onclick="toggleChatbot()">
+    💬 Ask Your FinanceBuddy
+</div>
+
+<!-- Chatbot Window -->
+<div id="chatbot-window">
+    <div id="chat-header">       
+        <span>Your FinanceBuddy</span>
+        <button onclick="toggleChatbot()">X</button>
+    </div>
+    <div id="chat-body">
+        <div id="chat-messages"></div>
+        <input type="text" id="user-input" placeholder="Ask your question..." onkeydown="if(event.key === 'Enter') sendMessage()" />
+    </div>
+</div>    
+
+</body>
+</html>

@@ -1,0 +1,309 @@
+body { 
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure it has a minimum height but grows with content */
+    padding: 2rem 0; /* Add padding for spacing when content expands */
+    margin: 0;
+}
+
+.container {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(209, 47, 115, 0.86); /* Use the desired color for the shadow */
+    width: 80%;
+    max-width: 1000px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: rgb(6, 44, 95);
+}
+
+.date-selection {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.timesheet {
+    margin-bottom: 2rem;
+}
+
+.timesheet table, .timesheet th, .timesheet td {
+    border-color: black; 
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 0.5rem;
+    text-align: left;
+}
+
+th {
+    background-color: #4fc1e0;
+}
+
+input[type="date"], input[type="text"], input[type="number"], select {
+    width: 100%;
+}
+.logo-container {
+    text-align: right; /* Center the logo */
+    margin-bottom: 20px; /* Space below the logo */
+}
+
+.logo {
+    width: 100px; /* Adjust the width of the logo */
+    height: auto; /* Maintain the aspect ratio */
+}
+button.submit-button:hover {
+    background-color: #46ddba; /* Change color on hover */
+}
+button.submit-button {
+    width: auto; /* Adjust width to fit content */
+    padding: 0.5rem 1rem; /* Adjust padding to make it smaller */
+    font-size: 1rem; /* Adjust font size */
+    background-color: #32df5b; /* Set background color */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block; /* Make it block-level to center */
+    margin: 0.5rem auto; /* Center the button */
+}
+button.add-entry:hover {
+    background-color: #46ddba;
+}
+button {
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #32df5b;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #46ddba;
+}
+
+button.delete-row {
+    background-color: red; 
+}
+
+button.delete-row:hover {
+    background-color: darkred;
+}
+button.add-entry {
+    width: auto; /* Adjust width to fit content */
+    padding: 0.5rem 1rem; /* Adjust padding to make it smaller */
+    font-size: 1rem; /* Adjust font size */
+    background-color: #32df5b; /* Set background color */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block; /* Make it block-level to center */
+    margin: 0.5rem auto; /* Center the button */
+}
+
+button.add-entry:hover {
+    background-color: #46ddba;
+}
+
+a.logout-button {
+    padding: 0.5rem 1rem; /* Minimal padding */
+    font-size: 1rem;        /* Text size */
+    background-color: #FF5733; /* Button color */
+    color: white;           /* Text color */
+    text-decoration: none;  /* Remove underline */
+    border-radius: 5px;     /* Rounded corners */
+    cursor: pointer;        /* Pointer cursor */
+    display: inline-block;  /* Button-like behavior */
+    width: auto;            /* Adjust width to fit content */
+    text-align: center;     /* Align text centrally */
+}
+
+a.logout-button:hover {
+    background-color: #c74326; /* Darker shade on hover */
+}
+
+#timesheet-container {
+
+    /* display:block; */
+
+    margin-top: 20px;
+
+    padding: 1rem;
+
+    border: 1px solid #ddd;
+
+    border-radius: 8px;
+
+    background-color: #fff;
+
+}
+
+
+
+.timesheet-table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-bottom: 1rem;
+
+}
+
+
+
+.timesheet-table th,
+
+.timesheet-table td {
+
+    padding: 0.5rem;
+
+    text-align: left;
+
+    border: 1px solid #ddd;
+
+}
+
+
+
+.timesheet-table th {
+
+    background-color: #4fc1e0;
+
+}
+
+
+
+#pagination-controls {
+
+    margin-top: 10px;
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 1rem;
+
+}
+
+
+
+#pagination-controls button {
+
+    padding: 0.5rem 1rem;
+
+    background-color: #32df5b;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
+
+
+
+#pagination-controls button:disabled {
+
+    background-color: #ccc;
+
+    cursor: not-allowed;
+
+}
+
+
+
+/* Popup Modal Styles */
+
+.popup {
+
+    display: none; /* Hidden by default */
+
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.5);
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+.popup-content {
+
+    background-color: white;
+
+    padding: 20px;
+
+    border-radius: 5px;
+
+    width: 400px;
+
+    text-align: center;
+
+}
+
+
+
+.popup-content button {
+
+    margin-top: 20px;
+
+}
+
+
+
+/* Close button for the popup */
+
+.close-btn {
+
+    position: absolute;
+
+    top: 10px;
+
+    right: 10px;
+
+    background: none;
+
+    border: none;
+
+    font-size: 20px;
+
+    cursor: pointer;
+
+}

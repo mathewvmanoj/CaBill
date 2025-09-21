@@ -1,0 +1,310 @@
+.logo-container {
+    text-align: right; /* Center the logo */
+    margin-bottom: 20px; /* Space below the logo */
+}
+.logo {
+    width: 120px; /* Adjust the width of the logo */
+    height: auto; /* Maintain the aspect ratio */
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F4EDE8;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    margin: 40px auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 36px; /* Increased size */
+    color: #2C3E50; /* Dark blue color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    font-family: 'Arial', sans-serif; /* Change to a more modern font */
+    margin-bottom: 20px; /* Space below the heading */
+    transition: color 0.3s; /* Smooth color transition */
+}
+h1:hover {
+    color: #1abc9c; /* Change color on hover */
+}
+
+/* Add space below the date filter form */
+#date-filter-form {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+.clear-btn {
+    display: inline-block;
+    padding: 5px 10px; /* Smaller padding for a smaller button */
+    font-size: 14px; /* Slightly smaller text */
+    background-color: #FF6347; /* Red background color */
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 4px; /* Rounded edges */
+    margin-left: 10px; /* Add some space between buttons */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.clear-btn:hover {
+    background-color: #FF4500; /* Darker red on hover */
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th {
+    background-color: #547ba4; /* Bright blue background */
+    color: white; /* White text color */
+    font-weight: bold; /* Bold text */
+    font-size: 18px; /* Larger font size */
+    padding: 15px; /* Increased padding for more space */
+    text-align: left; /* Left-aligned text */
+    border-bottom: 2px solid #24282d; /* Darker blue bottom border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+td {
+    background-color: #fef6f0;
+}
+.delete-btn {
+    background-color: #FF5733;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: 'Gill Sans';
+}
+.delete-btn:hover {
+    background-color: #ff4020;
+}
+.icon {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #eee;
+    margin-right: 8px;
+}
+
+.sites-badge, .tags-badge {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #F5F5F5;
+    border-radius: 20px;
+    color: black;
+    font-weight: bold;
+}
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    background-color: #28a745; /* Base color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 20px auto;
+    font-weight: bold;
+    position: relative; /* Needed for the glowing effect */
+    box-shadow: 0 0 5px #28a745, 0 0 10px #28a745, 0 0 20px #28a745; /* Glow effect */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.download-btn:hover {
+    background-color: #218838; /* Darker green on hover */
+    box-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #28a745; /* Bright white glow on hover */
+    transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+
+.logout-button {
+    padding: 8px 16px;
+    background-color: #FF6347; /* Logout button color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    box-shadow: 0 0 5px #FF6347, 0 0 10px #FF6347, 0 0 20px #FF6347; /* Glow effect */
+    cursor: pointer;
+}
+
+.logout-button:hover {
+    background-color: #FF4500; /* Darker color on hover */
+}
+
+/* Toggle Button*/
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+}
+
+.toggle-switch input {
+    display: none;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 25px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 19px;
+    width: 19px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: 0.4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #4caf50;
+}
+
+input:checked + .slider:before {
+    transform: translateX(25px);
+}
+
+
+/* Chatbot Button */
+#chatbot-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+/* Chatbot Window */
+#chatbot-window {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 300px;
+    height: 400px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    display: none;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#chat-header {
+    background: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* Close Button */
+#chat-header button {
+    position: absolute;
+    top: 5px;
+    right: 10px; 
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 4px 8px; /* Padding for button size */
+    border-radius: 4px;
+}
+
+#chat-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden; /* Prevent overflowing content */
+    position: relative;
+}
+
+#chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#user-input {
+    width: calc(100% - 20px);
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+#messagesDiv {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+.user-message {
+    text-align: right;
+    margin: 5px;
+    padding: 8px 10px;
+    background-color: #e1f7d5;
+    border-radius: 10px;
+    display: inline-block;
+}
+.bot-message {
+    text-align: left;
+    margin: 5px;
+    padding: 8px 10px;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    display: inline-block;
+}
+.bot-message.error {
+    color: red;
+    font-style: italic;
+}

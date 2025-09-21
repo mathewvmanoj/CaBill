@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty Details</title>
+    <!-- Link the finance_styles.css -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='finance_styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <img src="{{ url_for('static', filename='p2.png') }}" alt="Faculty Logo" class="logo">
+        <h1>Details for {{ faculty_name }}</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Day</th>
+                    <th>Course Code</th>
+                    <th>Hours Worked</th>
+                    <th>Comments</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for detail in details %}
+                <tr>
+                    <td>{{ detail.Date }}</td>
+                    <td>{{ detail.Day }}</td>
+                    <td>{{ detail.Course_Code }}</td>
+                    <td>{{ detail.Hours_Worked }}</td>
+                    <td>{{ detail.Comments if detail.Comments else "No comments" }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div class="button-container">
+            <a href="{{ url_for('finance') }}" class="download-btn">Back to Finance</a>
+        </div>
+    </div>
+</body>
+</html>

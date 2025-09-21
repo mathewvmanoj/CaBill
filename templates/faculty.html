@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty Bi-Weekly Timesheet</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='faculty_styles.css') }}">
+    <script src="../static/script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="logo-container">
+            <img src="{{ url_for('static', filename='p2.png') }}" alt="Faculty Logo" class="logo">
+        </div>
+
+        <h1>Faculty Bi-Weekly Timesheet</h1>
+        <form id="timesheet-form">
+            <!-- Date Selection -->
+            <div class="date-selection">
+                <div>
+                    <label for="start-date">Start Date:</label>
+                    <input type="date" id="start-date" onchange="setEndDate()" required>
+                </div>
+                <div>
+                    <label for="end-date">End Date:</label>
+                    <input type="date" id="end-date" readonly>
+                </div>
+            </div>
+
+            <!-- Week 1 Timesheet -->
+            <div class="timesheet">
+                <table id="week1-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Day</th>
+                            <th>Course Code</th>
+                            <th>Hours Worked</th>
+                            <th>Comments</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="week1-row">
+                            <td><input type="date" name="date1[]" class="date-input" placeholder="Select Date" required></td>
+                            <td>
+                                <select name="day1[]" class="day-select" required>
+                                    <option value="">Select Day</option>
+                                    <option value="Monday">Monday</option>
+                                    <option value="Tuesday">Tuesday</option>
+                                    <option value="Wednesday">Wednesday</option>
+                                    <option value="Thursday">Thursday</option>
+                                    <option value="Friday">Friday</option>
+                                    <option value="Saturday">Saturday</option>
+                                    <option value="Sunday">Sunday</option>
+                                </select>
+                            </td>
+                            <td>
+                                <input list="course-codes" name="course-code1[]" placeholder="Type or select course code" required>
+                                <datalist id="course-codes"></datalist>
+                            </td>
+                            <td><input type="number" name="hours-worked1[]" step="0.5" min="0" placeholder="Hours" required></td>
+                            <td><input type="text" name="comments1[]" placeholder="Add comments for extra hours..."></td>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div style="text-align: center; margin-top: 1rem;">
+                    <!-- Row for Add Entry and Submit button -->
+                    <div style="display: flex; justify-content: center; gap: 20rem;">
+                        <button type="button" class="add-entry" onclick="addEntry('week1')">Add Entry</button>
+                        <button type="button" id="view-timesheet-btn" class="view-timesheet-btn">View Timesheet</button>
+                        <button type="submit" class="submit-button" >Submit Timesheet</button>
+                    </div>
+                    <!-- Container for displaying timesheet -->
+                    <!-- Timesheet Container -->
+                    <div id="timesheet-container" hidden>
+                    <div id="timesheet-table-container" style="overflow-x: auto;">
+                        <table id="timesheet-table">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Day</th>
+                                    <th>Course Code</th>
+                                    <th>Hours Worked</th>
+                                    <th>Comments</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Paginated data will be injected here -->  
+                            </tbody>
+                        </table>     
+                    </div>
+                    <div id="pagination-controls">
+                        <button type="button" id="prev-button" onclick="loadPage(currentPage - 1)">Previous</button>
+                        <button type="button" id="next-button" onclick="loadPage(currentPage + 1)">Next</button>
+                    </div>                    
+                    </div>
+                    <!-- Row for Logout button -->
+                    <div style="margin-top: 1rem;">
+                        <a href="{{ url_for('logout') }}" class="logout-button">Logout</a>
+                    </div>
+                </div>
+                
+                
+        </form>
+    </div>
+</body>
+</html>
